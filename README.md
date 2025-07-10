@@ -2,7 +2,7 @@
 #👀 I’m interested in UX/UI designer.
 #🌱 I’m currently learning Computer science.
 
-# 🚀 Finlove 
+# 🩵 Finlove 
 ## 🔥 Overview
 Finlove คือแอปพลิเคชันเดทหาคู่เดทออนไลน์ Finlove มีการจับคู่ผู้ใช้ด้วย Machine Learning แบบ HyBrid Reccomendation
 โดย UX/UI มีการออกแบบให้ใช้งานง่ายกับทุกเพศทุกวัย และเป็นมิตรกับทุกคน ด้วยการใช้คู่สีที่น่าสนใจ และไอค่อนที่เรียบง่าย
