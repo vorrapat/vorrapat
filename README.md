@@ -14,3 +14,8 @@ Finlove คือแอปพลิเคชันเดทหาคู่เด
 - 👤 ระบบตรวจจับใบหน้า (Facial Recognition)
 - 🔥 API ที่เร็วและเสถียรสำหรับแอป Android และเว็บ
 - 📦 รองรับฐานข้อมูล MySQL
+
+# 📱 Finlove Android
+
+![Top Language](https://img.shields.io/github/languages/top/vorrapat/FInloveAndroid)
+![Language Count](https://img.shields.io/github/languages/count/vorrapat/FInloveAndroid)
