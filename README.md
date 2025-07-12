@@ -4,6 +4,7 @@
 
 # 🩵 Finlove 
 ![Top Language](https://img.shields.io/github/languages/top/vorrapat/FInloveAndroid)
+![Top Language](https://img.shields.io/github/languages/top/vorrapat/Finlove-Node-Original)
 ![Language Count](https://img.shields.io/github/languages/count/vorrapat/FInloveAndroid)
 [![GitHub stars](https://img.shields.io/github/stars/vorrapat/FInloveAndroid?style=social)](https://github.com/finlove-dev/FInloveAndroid/stargazers)
 [![License](https://img.shields.io/github/license/vorrapat/FInloveAndroid)](LICENSE)
