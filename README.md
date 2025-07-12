@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @vorrapat
 # 👀 I’m interested in UX/UI designer.
-#🌱 I’m currently learning Computer science.
 
 # 🩵 Finlove 
 ![Top Language](https://img.shields.io/github/languages/top/vorrapat/FInloveAndroid)
