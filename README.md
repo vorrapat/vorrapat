@@ -4,7 +4,6 @@
 # 🩵 Finlove 
 ![Top Language](https://img.shields.io/github/languages/top/vorrapat/FInloveAndroid)
 ![Top Language](https://img.shields.io/github/languages/top/vorrapat/Finlove-Node-Original)
-![Language Count](https://img.shields.io/github/languages/count/vorrapat/FInloveAndroid)
 
 ## 🔥 Overview
 Finlove คือแอปพลิเคชันเดทหาคู่เดทออนไลน์ Finlove มีการจับคู่ผู้ใช้ด้วย Machine Learning แบบ HyBrid Reccomendation
