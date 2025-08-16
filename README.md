@@ -6,7 +6,6 @@
 ![Top Language](https://img.shields.io/github/languages/top/vorrapat/Finlove-Node-Original)
 
 <img width="310" height="704" alt="image" src="https://github.com/user-attachments/assets/0666f651-a31f-4758-a327-46a88c8d63a2" />
-<img width="308" height="696" alt="image" src="https://github.com/user-attachments/assets/df48954e-ef09-4405-8de3-3d8ad98f96ae" />
 <img width="304" height="698" alt="image" src="https://github.com/user-attachments/assets/e0812d58-c5ae-4ea3-91b8-bd09cd3c8af1" />
 <img width="303" height="693" alt="image" src="https://github.com/user-attachments/assets/266ddb18-b38c-4c83-b191-a8941047104a" />
 
