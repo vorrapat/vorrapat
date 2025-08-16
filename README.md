@@ -7,6 +7,7 @@
 
 <img width="178" height="399" alt="image" src="https://github.com/user-attachments/assets/c76e8a47-b132-43ed-ba19-d4a1767ca40d" />
 <img width="205" height="399" alt="image" src="https://github.com/user-attachments/assets/32c396b3-9ec4-4a4d-bb79-1aa5369c84c6" />
+<img width="210" height="399" alt="image" src="https://github.com/user-attachments/assets/cc07a07f-c2f7-4cd4-b93d-b5a6c4585b3c" />
 
 ## 🔥 Overview
 Finlove คือแอปพลิเคชันเดทหาคู่เดทออนไลน์ Finlove มีการจับคู่ผู้ใช้ด้วย Machine Learning แบบ HyBrid Reccomendation
