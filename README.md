@@ -8,8 +8,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
   </a>
-  <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353924/xml.svg" width="40" height="40" alt="XML" />
+ <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/353924/xml.svg" width="36" height="36" alt="XML" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
