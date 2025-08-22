@@ -1,6 +1,21 @@
 # 👋 Hi, I’m @vorrapat
 # 👀 I’m interested in UX/UI designer.
 
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
+  <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xml-colored.svg" width="36" height="36" alt="XML" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  </a>
+</p>
+
 # 🩵 Finlove 
 
 Finlove คือแอปพลิเคชันเดทหาคู่เดทออนไลน์ Finlove มีการจับคู่ผู้ใช้ด้วย Machine Learning แบบ HyBrid Reccomendation
