@@ -15,7 +15,6 @@
 </p>
 
 <!-- เครื่องมือและซอฟต์แวร์ -->
-<h3>เครื่องมือและซอฟต์แวร์</h3>
 <p align="left" style="display: flex; gap: 8px;">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30" alt="Figma" />
