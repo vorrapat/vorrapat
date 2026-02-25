@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @vorrapat
-# 👀 มีความสนใจในตำแหน่ง (UX/UI, Systems Analyst, Front-end).
+# Hi, I’m @vorrapat
+# มีความสนใจในตำแหน่ง (UX/UI, Systems Analyst, Front-end).
 
 <!-- ภาษาที่ใช้ -->
 <h3>ภาษาที่ใช้</h3>
