@@ -2,7 +2,6 @@
 # มีความสนใจในตำแหน่ง (UX/UI, Systems Analyst, Front-end).
 
 <!-- ภาษาที่ใช้ -->
-<h3>ภาษาที่ใช้</h3>
 <p align="left" style="display: flex; gap: 8px;">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
