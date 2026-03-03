@@ -14,20 +14,6 @@
   </a>
 </p>
 
-<!-- เครื่องมือและซอฟต์แวร์ -->
-<p align="left" style="display: flex; gap: 8px;">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30" alt="Figma" />
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="30" height="30" alt="Android Studio" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" />
-  </a>
-</p>
-
-
 # 🩵 Finlove 
 
 Finlove คือแอปพลิเคชันเดทหาคู่เดทออนไลน์ Finlove มีการจับคู่ผู้ใช้ด้วย Machine Learning แบบ HyBrid Reccomendation
