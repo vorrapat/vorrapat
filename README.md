@@ -18,6 +18,7 @@
 
 Finlove คือแอปพลิเคชันเดทหาคู่เดทออนไลน์ Finlove มีการจับคู่ผู้ใช้ด้วย Machine Learning แบบ HyBrid Reccomendation
 โดย UX/UI มีการออกแบบให้ใช้งานง่ายกับทุกเพศทุกวัย และเป็นมิตรกับทุกคน ด้วยการใช้คู่สีที่น่าสนใจ และไอค่อนที่เรียบง่าย
+Link: https://www.figma.com/design/upfg43zXyE4zPOxtfp2iBl/FINLOVE-UX-UI?node-id=0-1&t=Sjq9d5QyELbvMzr0-1
 ---
 
 <img width="200"  alt="image" src="https://github.com/user-attachments/assets/0666f651-a31f-4758-a327-46a88c8d63a2" />
