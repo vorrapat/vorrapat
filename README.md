@@ -151,7 +151,6 @@ Designed a **telemedicine system** that enables:
 ## 🖼️ UI Preview
 
 <p align="center">
-  <img width="200" src="https://github.com/user-attachments/assets/4cd710ba-bd65-4ec3-8470-09f9b38c3556" />
   <img width="200" src="https://github.com/user-attachments/assets/836b6721-e59a-437c-991e-a043ed2e09c6" />
   <img width="200" src="https://github.com/user-attachments/assets/f0e83cbd-45e9-4937-aec6-6d03b6d22823" />
   <img width="200" src="https://github.com/user-attachments/assets/303e20da-2567-402e-8842-02c2ef299f56" />
