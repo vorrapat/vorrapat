@@ -114,15 +114,17 @@ Designed a **telemedicine system** that enables:
 ## 👤 User Persona
 
 <p align="center">
-  <img width="600" src="PUT_YOUR_PERSONA_IMAGE_HERE" />
+  <img width="789" height="445" alt="image" src="https://github.com/user-attachments/assets/ec1e9be1-eb3d-4181-88d9-1b383b545b0a" />
 </p>
-
+<p align="center">
+  <img width="973" height="545" alt="image" src="https://github.com/user-attachments/assets/8bca2553-e326-4a54-be15-296bfa27505d" />
+</p>
 ---
 
 ## 🧭 User Journey
 
 <p align="center">
-  <img width="800" src="PUT_YOUR_USER_JOURNEY_IMAGE_HERE" />
+  <img width="788" height="441" alt="image" src="https://github.com/user-attachments/assets/5c6356a3-889f-44bd-815a-5c6ecdb374ff" />
 </p>
 
 ---
