@@ -34,9 +34,9 @@ https://www.figma.com/design/upfg43zXyE4zPOxtfp2iBl/FINLOVE-UX-UI?node-id=0-1
 ## 🚀 Key Features
 
 * 🧠 **Hybrid Recommendation System** (KNN + Cosine Similarity)
-* 👤 **Facial Recognition System** for identity verification
-* ⚡ **High-performance API** for Android & Web
-* 🗄️ **MySQL Database Integration**
+* 👤 **Facial Recognition System**
+* ⚡ **High-performance API (Web & Android)**
+* 🗄️ **MySQL Database**
 
 ---
 
@@ -75,52 +75,55 @@ Designed a **simplified user flow** with an intelligent matching system to impro
 
 ## 🧠 Key Learning
 
-* Improved ability to translate **business requirements into user-centered design**
-* Gained experience in combining **System Analysis with UX/UI Design**
-* Learned how to design for **scalability and real-world usage**
+* Translate **business requirements → user-centered design**
+* Combine **System Analysis + UX/UI Design**
+* Design with **scalability in mind**
 
 ---
 
 # 🩺 Telemedicine Application
 
-A telemedicine platform designed to connect patients with doctors through online consultation, appointment scheduling, and real-time chat/video communication.
+A telemedicine platform designed to connect patients with doctors through online consultation, appointment scheduling, and real-time communication.
+
+---
+
+## 🎯 My Role
+
+* UX/UI Designer
+* System Analyst
 
 ---
 
 ## 🔍 Problem
 
-Traditional healthcare access can be time-consuming and inconvenient.
-Users need a faster and more accessible way to consult with doctors remotely.
+Traditional healthcare access is time-consuming and inconvenient.
+Users need faster, more accessible ways to consult doctors remotely.
 
 ---
 
 ## 💡 Solution
 
-Designed a **telemedicine platform** that allows users to:
+Designed a **telemedicine system** that enables:
 
-* Book appointments بسهولة
-* Chat with doctors in real-time
-* Access healthcare services from anywhere
+* Easy appointment booking
+* Real-time chat & video consultation
+* Anywhere access to healthcare services
 
 ---
 
-## 👤 User Research
+## 👤 User Persona
 
-* Created **User Personas** to represent different user groups
-* Identified key pain points such as:
-
-  * Long waiting times
-  * Complex booking processes
+<p align="center">
+  <img width="600" src="PUT_YOUR_PERSONA_IMAGE_HERE" />
+</p>
 
 ---
 
 ## 🧭 User Journey
 
-Mapped the full user journey from:
-
-* Login → Doctor Selection → Appointment → Consultation → Follow-up
-
-This helped identify friction points and improve user experience.
+<p align="center">
+  <img width="800" src="PUT_YOUR_USER_JOURNEY_IMAGE_HERE" />
+</p>
 
 ---
 
@@ -136,32 +139,29 @@ This helped identify friction points and improve user experience.
 
 ## 🎨 Key Features
 
-* 📅 Appointment Booking System
-* 💬 Real-time Chat with Doctors
+* 📅 Appointment Booking
+* 💬 Real-time Chat
 * 🎥 Video Consultation
-* 👩‍⚕️ Doctor Profile & Availability
-* 🔔 Notification & Status Updates
+* 👩‍⚕️ Doctor Profiles & Availability
+* 🔔 Notifications
 
 ---
 
-## 🖼️ UI Screens
+## 🖼️ UI Preview
 
-<img width="181" height="374" alt="image" src="https://github.com/user-attachments/assets/4cd710ba-bd65-4ec3-8470-09f9b38c3556" />
-<img width="279" height="611" alt="image" src="https://github.com/user-attachments/assets/836b6721-e59a-437c-991e-a043ed2e09c6" />
-<img width="276" height="611" alt="image" src="https://github.com/user-attachments/assets/f0e83cbd-45e9-4937-aec6-6d03b6d22823" />
-<img width="275" height="609" alt="image" src="https://github.com/user-attachments/assets/303e20da-2567-402e-8842-02c2ef299f56" />
-
-
-
-
+<p align="center">
+  <img width="200" src="https://github.com/user-attachments/assets/4cd710ba-bd65-4ec3-8470-09f9b38c3556" />
+  <img width="200" src="https://github.com/user-attachments/assets/836b6721-e59a-437c-991e-a043ed2e09c6" />
+  <img width="200" src="https://github.com/user-attachments/assets/f0e83cbd-45e9-4937-aec6-6d03b6d22823" />
+  <img width="200" src="https://github.com/user-attachments/assets/303e20da-2567-402e-8842-02c2ef299f56" />
+</p>
 
 ---
 
 ## 🧠 Key Learning
 
-* Learned how to design **end-to-end user experience**
-* Improved skills in **user journey mapping and problem identification**
-* Strengthened ability to connect **UX design with real-world use cases**
+* Designed **end-to-end UX flow**
+* Applied **user journey & persona in real scenarios**
+* Connected **UX design with real-world healthcare use cases**
 
 ---
-
