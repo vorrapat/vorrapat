@@ -17,7 +17,7 @@
 # 💙 Finlove — Dating Application
 
 **Finlove** is a modern dating application designed to create meaningful connections using intelligent matching techniques.
-The platform focuses on **user-friendly experience**, accessibility, and inclusive design for all users.
+The platform focuses on **user-friendly experience, accessibility, and inclusive design**.
 
 🔗 **Prototype:**
 https://www.figma.com/design/upfg43zXyE4zPOxtfp2iBl/FINLOVE-UX-UI?node-id=0-1
@@ -33,22 +33,22 @@ https://www.figma.com/design/upfg43zXyE4zPOxtfp2iBl/FINLOVE-UX-UI?node-id=0-1
 
 ## 🚀 Key Features
 
-* 🧠 **Hybrid Recommendation System** (KNN + Cosine Similarity)
-* 👤 **Facial Recognition System**
-* ⚡ **High-performance API (Web & Android)**
-* 🗄️ **MySQL Database**
+* 🧠 Hybrid Recommendation System (KNN + Cosine Similarity)
+* 👤 Facial Recognition System
+* ⚡ High-performance API (Web & Android)
+* 🗄️ MySQL Database
 
 ---
 
 ## 🔍 Problem
 
-Users often struggle with irrelevant matches and complicated interfaces in dating applications.
+Users often struggle with **irrelevant matches** and **complex user interfaces**, leading to poor user experience.
 
 ---
 
 ## 💡 Solution
 
-Designed a **simplified user flow** with an intelligent matching system to improve user experience and matching accuracy.
+Designed a **simplified user flow** combined with an intelligent matching system to improve usability and matching accuracy.
 
 ---
 
@@ -76,7 +76,7 @@ Designed a **simplified user flow** with an intelligent matching system to impro
 ## 🧠 Key Learning
 
 * Translate **business requirements → user-centered design**
-* Combine **System Analysis + UX/UI Design**
+* Combine **System Analysis with UX/UI Design**
 * Design with **scalability in mind**
 
 ---
@@ -96,8 +96,8 @@ A telemedicine platform designed to connect patients with doctors through online
 
 ## 🔍 Problem
 
-Traditional healthcare access is time-consuming and inconvenient.
-Users need faster, more accessible ways to consult doctors remotely.
+Traditional healthcare access is **time-consuming and inconvenient**.
+Users need faster and more accessible ways to consult doctors remotely.
 
 ---
 
@@ -107,24 +107,23 @@ Designed a **telemedicine system** that enables:
 
 * Easy appointment booking
 * Real-time chat & video consultation
-* Anywhere access to healthcare services
+* Access to healthcare services anytime, anywhere
 
 ---
 
 ## 👤 User Persona
 
 <p align="center">
-  <img width="789" height="445" alt="image" src="https://github.com/user-attachments/assets/ec1e9be1-eb3d-4181-88d9-1b383b545b0a" />
+  <img width="400" src="https://github.com/user-attachments/assets/ec1e9be1-eb3d-4181-88d9-1b383b545b0a" />
+  <img width="400" src="https://github.com/user-attachments/assets/a327fb3f-5fad-4d07-ada4-619bca68c2d9" />
 </p>
-<p align="center">
-  <img width="973" height="545" alt="image" src="https://github.com/user-attachments/assets/8bca2553-e326-4a54-be15-296bfa27505d" />
-</p>
+
 ---
 
 ## 🧭 User Journey
 
 <p align="center">
-  <img width="788" height="441" alt="image" src="https://github.com/user-attachments/assets/5c6356a3-889f-44bd-815a-5c6ecdb374ff" />
+  <img width="800" src="https://github.com/user-attachments/assets/5c6356a3-889f-44bd-815a-5c6ecdb374ff" />
 </p>
 
 ---
