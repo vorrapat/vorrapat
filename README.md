@@ -4,8 +4,6 @@
 
 ---
 
----
-
 ### 🌐 Connect with me / ช่องทางการติดต่อ
 * 💼 **LinkedIn:** (https://www.linkedin.com/in/vorrapat-kobsinkha)
 
