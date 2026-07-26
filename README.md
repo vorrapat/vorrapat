@@ -1,6 +1,13 @@
-# 👋 Hi, I’m Vorrapat
+# 👋 Hi, I’m Vorrapat (วรภาส)
 
 💻 Interested in **UX/UI Design • System Analysis • Front-end Development**
+
+---
+
+---
+
+### 🌐 Connect with me / ช่องทางการติดต่อ
+* 💼 **LinkedIn:** (https://www.linkedin.com/in/vorrapat-kobsinkha)
 
 ---
 
