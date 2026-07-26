@@ -29,13 +29,6 @@ https://www.figma.com/design/upfg43zXyE4zPOxtfp2iBl/FINLOVE-UX-UI?node-id=0-1
 
 ---
 
-## 🎯 My Role
-
-* UX/UI Designer
-* System Analyst
-
----
-
 ## 🚀 Key Features
 
 * 🧠 Hybrid Recommendation System (KNN + Cosine Similarity)
@@ -57,16 +50,6 @@ Designed a **simplified user flow** combined with an intelligent matching system
 
 ---
 
-## 🧭 UX Process
-
-* Requirement Analysis
-* User Flow Design
-* Wireframing
-* UI Design (Figma)
-* Prototype Testing
-
----
-
 ## 🎨 UI Preview
 
 <p align="center">
@@ -78,24 +61,9 @@ Designed a **simplified user flow** combined with an intelligent matching system
 
 ---
 
-## 🧠 Key Learning
-
-* Translate **business requirements → user-centered design**
-* Combine **System Analysis with UX/UI Design**
-* Design with **scalability in mind**
-
----
-
 # 🩺 Telemedicine Application
 
 A telemedicine platform designed to connect patients with doctors through online consultation, appointment scheduling, and real-time communication.
-
----
-
-## 🎯 My Role
-
-* UX/UI Designer
-* System Analyst
 
 ---
 
@@ -130,16 +98,6 @@ Designed a **telemedicine system** that enables:
 <p align="center">
   <img width="800" src="https://github.com/user-attachments/assets/5c6356a3-889f-44bd-815a-5c6ecdb374ff" />
 </p>
-
----
-
-## 🔄 UX Process
-
-* Requirement Analysis
-* User Persona Creation
-* User Journey Mapping
-* Wireframing
-* UI Design (Figma)
 
 ---
 
