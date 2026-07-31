@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Vorrapat 👋
-### วรภาส กอบสินขา
+### วรภาส กอบสินค้า
 
 **System Support · UX/UI Designer · System Analyst · Front-end Developer**
 
