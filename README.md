@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi, I'm Vorrapat 👋
-### วรภาส กอบสินขา
+### วรภาส กอบสินค้า
 
-**UX/UI Designer · System Analyst · Front-end Developer**
+**System Support with (UX/UI Design · System Analysis · Front-end) skill**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vorrapat-kobsinkha)
 
