@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi, I'm Vorrapat 👋
-### วรภาส กอบสินค้า
+### วรภาส กอบสินขา
 
-**System Support · UX/UI Designer · System Analyst · Front-end Developer**
+**UX/UI Designer · System Analyst · Front-end Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vorrapat-kobsinkha)
 
@@ -12,6 +12,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FF6C37?style=for-the-badge&logo=umlbot&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -85,7 +88,5 @@ Platform connecting patients with doctors via online consultation — because tr
 <br>
 
 <div align="center">
-
-⭐ **Let's connect and build something great together!**
 
 </div>
