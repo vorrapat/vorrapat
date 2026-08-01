@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vorrapat 👋
+# Hi, I'm Vorrapat
 ### วรภาส กอบสินค้า
 
 **System Support with (UX/UI Design · System Analysis · Front-end) skill**
