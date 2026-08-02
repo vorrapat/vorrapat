@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm Vorrapat
+# Hi I'm Vorrapat
 ### วรภาส กอบสินค้า
 
-**System Support with (UX/UI Design · System Analysis · Front-end) skill**
+**System Support with UX/UI Design · System Analysis · Front-end skill**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vorrapat-kobsinkha)
 
